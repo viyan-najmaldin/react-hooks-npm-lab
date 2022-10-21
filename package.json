@@ -1,0 +1,20 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "- Use a `package.json` file to manage project dependencies\r - Install a project dependency using npm\r - Import code from a package into a JavaScript file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viyan-najmaldin/react-hooks-npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viyan-najmaldin/react-hooks-npm-lab/issues"
+  },
+  "homepage": "https://github.com/viyan-najmaldin/react-hooks-npm-lab#readme"
+}
